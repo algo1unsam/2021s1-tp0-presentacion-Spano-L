@@ -1,6 +1,7 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Luciana Daniela Spano
+Alumna de Algoritmos I en TPI (UNSAM)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
